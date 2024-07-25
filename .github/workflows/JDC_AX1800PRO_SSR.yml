@@ -1,4 +1,4 @@
-name: IPQ60XX-ALL
+name: JDC_AX1800PRO_SSR
 
 on:
   workflow_dispatch:

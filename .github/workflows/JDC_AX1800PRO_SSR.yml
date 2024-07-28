@@ -2,8 +2,8 @@ name: JDC_AX1800PRO_SSR
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: 0 19 * * *
+  #schedule:
+  #  - cron: 0 19 * * *
 
 env:
   REPO_URL: https://github.com/LiBwrt-op/openwrt-6.x.git
